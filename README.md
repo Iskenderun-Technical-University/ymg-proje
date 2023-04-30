@@ -3,7 +3,7 @@ Projenin Özellikleri :
 
 Spor Salonu Otomasyonu
 - Sporcuların ad soyad listeleri 
-- Sporcuların telefon nuarası 
+- Sporcuların telefon numarası 
 - Sporcuların Cinsiyeti
 - Sporcuların Yaşları
 - Sporcuların ödeme yapacağı tarihler ve ödeme başlangıc tutarı 
