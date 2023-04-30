@@ -8,7 +8,7 @@ Spor Salonu Otomasyonu
 - Sporcuların Yaşları
 - Sporcuların ödeme yapacağı tarihler ve ödeme başlangıc tutarı 
 - Sporcuların ödeme zamanlaması 
-- Aylık demeler
+- Aylık ödemeler
 
 Otomasyn sahibinin çok rahat bir şekilde bütün kullanıcıların ödemesini toplam kazandığı tutar ve bütün datayı çok rahat görmesini sağlayan otomasyon
 
