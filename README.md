@@ -14,8 +14,9 @@ Otomasyn sahibinin çok rahat bir şekilde bütün kullanıcıların ödemesini 
 
 Otomasyonda Emeği Geçenler
 
-Serhat Doğan 212503202 ( Backend Bölümü )
-Serkan Gözügök 202503018 ( Frontend Bölümü )
+-Serhat Doğan 212503202 
+-Serkan Gözügök 202503018 
+- Proje iki kişi tarafından hazırlanmıştır.
 
 
 Otomasyonda haftalık olarak ilerleyerek düzenli bir çalışma yapılacak görev dağılımları paylaşılmıştır.
